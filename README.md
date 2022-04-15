@@ -1,7 +1,7 @@
 - 👋 Hi, I’m i28krqet
 - 👀 I’m interested in art
 - 🌱 I’m currently learning programming
-- 💞️ I hope to be taught in this regard
+- 💞️ I hope to get programming instruction
 - 📫 My email address is 1354189828@qq.com
 
 <!---
